@@ -29,6 +29,6 @@ as Revenue from HotelsData </strong> <br />
 
 # Lastly,
 
-- I continued my analysis in Power Bi
+- I continued my analysis in Tableau
 
-LINK to Power Bi: 
+LINK to Tableau Viz: 
