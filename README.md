@@ -30,5 +30,3 @@ as Revenue from HotelsData </strong> <br />
 # Lastly,
 
 - I continued my analysis in Tableau
-
-LINK to Tableau Viz: 
